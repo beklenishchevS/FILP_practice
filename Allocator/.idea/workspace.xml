@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Allocator" targetName="Allocator" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04cdf70c-6297-4124-9f8c-19fc2fd03014" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Z6vSHGSsNyRXWBmRxv7qxGVjxK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Allocator" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Allocator" TARGET_NAME="Allocator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Allocator" RUN_TARGET_NAME="Allocator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04cdf70c-6297-4124-9f8c-19fc2fd03014" name="Default Changelist" comment="" />
+      <created>1584172358715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584172358715</updated>
+      <workItem from="1584172373099" duration="5169000" />
+      <workItem from="1584431552183" duration="187000" />
+      <workItem from="1585646536736" duration="11643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585726756496">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1585726756496" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585753612360">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585753612360" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1584252281124" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1585753612357">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585753612357" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1584252281122" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1585753612356">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585753612356" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1584252281121" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1585753612359">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585753612358" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1584252281123" />
+    <state x="482" y="88" key="refactoring.ChangeSignatureDialog" timestamp="1584175175723">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="482" y="88" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1584175175723" />
+  </component>
+</project>

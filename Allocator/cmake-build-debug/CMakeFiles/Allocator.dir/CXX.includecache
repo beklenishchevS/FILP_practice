@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/BeklenishevaT/Desktop/Allocator/main.cpp
+cstddef
+-
+cstdlib
+-
+map
+-
+list
+-
+cmath
+-
+iostream
+-
+
