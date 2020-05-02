@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/BeklenishevaT/Desktop/SmartPtr/SmartPtr.cpp
+iostream
+-
+
+/Users/BeklenishevaT/Desktop/SmartPtr/main.cpp
+iostream
+-
+SmartPtr.cpp
+/Users/BeklenishevaT/Desktop/SmartPtr/SmartPtr.cpp
+
